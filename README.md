@@ -11,4 +11,4 @@ https://www.figma.com/file/aK1KUQqle2un9NkFKBLiRf/ (maquette desktop)
 https://www.figma.com/file/PQ3VlqGpQi5hXp9Y6j0Kuq/ (maquette mobile)
 
 
-https://trello.com/b/6LeWfQxn/brief3 (la présentation dans un outil de gestion de projet)
+https://trello.com/b/tJ6ux9x5/brief3 (la présentation dans un outil de gestion de projet)
